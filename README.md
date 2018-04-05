@@ -14,3 +14,5 @@ Seefood.
 Jian Yang
 
 The couscous was a sign!
+
+Maybe check in at a designated Pizza restaurant and depending on dish, returns approximations of a range of nutritional information. Use camera to look. Might need machine learning? Or simply offer nutritional information.
